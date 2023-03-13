@@ -1,0 +1,19 @@
+/* stylesheet for all recipe pages */
+.center {
+    text-align: center;
+    border-bottom: double;
+    border-color: crimson;
+}
+
+ol {
+    margin-right: 15%;
+}
+
+.space {
+    margin-left: 1%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    background-color: blanchedalmond;
+}
